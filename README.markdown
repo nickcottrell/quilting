@@ -4,6 +4,8 @@ Quilting
 Javascript Platform Detection
 -----------------------------
 
+This was formerly "gangster sniff" which was intended to be a funny way to show how you can do platform detection several different ways. As a more serious project, my plan is to build out a simple modular system that allows leverages the userAgent object and allows you to easily add and select for various platforms.
+
 Depending on your situation, you might need to handle things differently. Here are 3 methods to detect mac in order to provide Mac users with alternate content.
 
 ### Write
